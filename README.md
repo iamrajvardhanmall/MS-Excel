@@ -96,10 +96,10 @@ These KPIs provide a quick snapshot of overall business performance.
 
 ## 📂 Project Structure
 
-MS-Excel/
+MS-Excel/<br>
 │
-├── Coffee_Shop_Sales_Dashboard.xlsx
-└── README.md
+├── Coffee_Shop_Sales_Dashboard.xlsx <br>
+└── README.md <br>
 
 
 ---
@@ -128,7 +128,3 @@ MS-Excel/
 Aspiring Data Analyst | Data Science & Machine Learning Enthusiast  
 
 GitHub: https://github.com/iamrajvardhanmall
-
-
-## 📂 Project Structure
-
